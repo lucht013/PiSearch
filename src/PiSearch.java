@@ -20,7 +20,6 @@ public class PiSearch {
 
     }
 
-    //checks for palindrome by comparing reverse to original
     public static boolean isPalindrome(String digits){
         boolean result = false;
         String reverse = "";
